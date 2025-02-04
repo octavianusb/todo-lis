@@ -8,7 +8,7 @@ In order to run this locally you need:
 
 Then go to the browser and go to the following [http://localhost:5173/](http://localhost:5173/) url.
 
-Here you can find a live version of the app: [https://https://octavtodolist.netlify.app/](https://https://octavtodolist.netlify.app/)
+Here you can find a live version of the app: [https://octavtodolist.netlify.app/](https://octavtodolist.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
